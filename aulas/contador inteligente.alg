@@ -1,8 +1,8 @@
 algoritmo "contador inteligente"
-// Função :
+// Funï¿½ï¿½o :
 // Autor :
 // Data : 28/06/2022
-// Seção de Declarações
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es
 var
 n, cont: inteiro
 inicio
@@ -11,8 +11,8 @@ escreval
 escreval("-------------------")
 escreval("        MENU       ")
 escreval("-------------------")
-escreval("   [1] 1 até 10    ")
-escreval("   [2] 10 até 1    ")
+escreval("   [1] 1 atï¿½ 10    ")
+escreval("   [2] 10 atï¿½ 1    ")
 escreval("   [3] SAIR        ")
 leia (n)
 escolha n
